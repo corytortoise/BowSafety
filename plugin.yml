@@ -1,0 +1,6 @@
+name: BowSafety
+main: corytortoise\BowSafety\Main
+author: corytortoise
+version: 0.1
+api: 3.0.0-ALPHA5
+description: Prevents players from hurting themselves with glitchy bows.
